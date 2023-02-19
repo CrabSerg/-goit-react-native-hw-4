@@ -10,7 +10,7 @@ export const postsScreenArray = [
   {
     id: 2,
     img: require("../assets/images/sunset.jpg"),
-    title: "Захід сонця на Чорному морі",
+    title: "Захід сонця у Чорному морі",
     location: "Ukraine",
     comments: 3,
     likes: 200,
@@ -37,7 +37,7 @@ export const profilePostArray = [
   {
     id: 2,
     img: require("../assets/images/sunset.jpg"),
-    title: "Старий будиночок у Венеції",
+    title: "Захід сонця у Чорному морі",
     location: "Ukraine",
     comments: 3,
     likes: 200,
