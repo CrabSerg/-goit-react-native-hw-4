@@ -27,7 +27,7 @@ export const BottomMenu = ({ navigation }) => {
       }}
     >
       <BottomTab.Screen
-        name="Публикации"
+        name="Публикації"
         component={PostsScreen}
         options={{
           headerShown: true,
@@ -58,7 +58,7 @@ export const BottomMenu = ({ navigation }) => {
         }}
       />
       <BottomTab.Screen
-        name="Создать публикацию"
+        name="Створити публікацію"
         component={CreatePostsScreen}
         options={{
           tabBarStyle: { display: "none" },

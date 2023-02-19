@@ -24,7 +24,7 @@ export const useRoute = (isLogin) => {
           headerTitleStyle: { color: "#212121", fontSize: 17 },
           headerTitleAlign: "center",
         }}
-        name="Комментарии"
+        name="Коментарі"
         component={CommentsScreen}
       ></MainStack.Screen>
       <MainStack.Screen

@@ -109,7 +109,7 @@ export const CreatePostsScreen = ({ navigation }) => {
             </TouchableOpacity>
           </View>
           <View style={styles.contantTitle}>
-            <Text style={styles.text}>Загрузите фото</Text>
+            <Text style={styles.text}>Завантажте фото</Text>
           </View>
           <View style={{ width: windowWidth - 32 }}>
             <TextInput
